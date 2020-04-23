@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Driver",
+            "request": "launch",
+            "mainClass": "jdbcdemo.Driver",
+            "projectName": "FilmDB"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Driver",
+            "request": "launch",
+            "mainClass": "src.jdbcdemo.Driver",
+            "projectName": "FilmDB"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Driver",
+            "request": "launch",
+            "mainClass": "src.app.Applikasjon",
+            "projectName": "FilmDB"
+        }
+    ]
+}
